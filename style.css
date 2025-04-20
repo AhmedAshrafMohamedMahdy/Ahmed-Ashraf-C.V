@@ -87,6 +87,16 @@ a:hover {
     border: 3px solid #00BFFF;
 }
 
+#contact a {
+    color: #00BFFF;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+    color: #0099cc;
+}
+
 
 .header-text {
     text-align: left;
