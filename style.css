@@ -90,12 +90,14 @@ a:hover {
 #contact a {
     color: #00BFFF;
     text-decoration: none;
+    word-break: break-all;
 }
 
 #contact a:hover {
     text-decoration: underline;
     color: #0099cc;
 }
+
 
 
 .header-text {
